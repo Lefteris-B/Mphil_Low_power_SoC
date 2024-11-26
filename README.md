@@ -1,1 +1,1 @@
-# Mphil_Low_power_SoC
+# Mphil_Low_power_SoC with Gemmini Accelerator
